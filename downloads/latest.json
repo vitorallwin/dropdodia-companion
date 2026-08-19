@@ -1,5 +1,6 @@
 {
-  "download_url": "https://raw.githubusercontent.com/vitorallwin/dropdodia-companion/main/downloads/DropDoDia-Curadoria-Windows-v1.0.11.zip",
-  "version": "1.0.11",
-  "sha256": "793CC507506BBFA3D6F9DCE35055BCAA524248E21D4FB0E437EF84AEF2BA1C23"
+  "sha256": "B60AFDBBEB0C4356E4068E6F519598C31CEE9C675C5FD193B0783C7F54A6E259",
+  "download_url": "https://github.com/vitorallwin/dropdodia/releases/download/companion-v1.1.0/DropDoDia-Update-v1.1.0.zip",
+  "version": "1.1.0",
+  "schema": 1
 }
