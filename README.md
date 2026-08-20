@@ -4,18 +4,18 @@ Instalador oficial para Windows do companion local usado na curadoria e na gera�
 
 ## Download
 
-[Baixar o instalador para Windows](https://github.com/vitorallwin/dropdodia-companion/releases/download/companion-v1.1.1/DropDoDia-Curadoria-Windows.zip)
+[Baixar o instalador para Windows](https://github.com/vitorallwin/dropdodia-companion/releases/download/companion-v1.1.2/DropDoDia-Curadoria-Windows.zip)
 
 Depois de baixar:
 
 1. Extraia o ZIP.
-2. Execute o `Instalar-Drop-do-Dia-1.1.1.exe` que está dentro.
+2. Execute o `Instalar-Drop-do-Dia-1.1.2.exe` que está dentro.
 3. Confirme a instalação do Windows.
 4. Abra **Drop do Dia** pelo menu Iniciar ou pelo atalho criado.
 
-Versão atual: **v1.1.1**
+Versão atual: **v1.1.2**
 
-SHA-256 do pacote: `2D8F4C27ECFF902B6FB4DD93E392BC786EFD38DFF26CF50A33DFF401059F6A08`
+SHA-256 do pacote: `2A1C80AC70C585924E679C106A16217BCCF4FA61465FB555BB26E10CA3C961C5`
 
 O aplicativo mostra quando existe uma nova versão e permite instalar a atualização pelo próprio painel.
 
