@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/vitorallwin/dropdodia-companion/releases/download/companion-v1.4.1/DropDoDia-Update-v1.4.1.zip",
-  "version": "1.4.1",
-  "sha256": "E3E52D48D728D6BD8C7407D19EEF6CC07950FEC50EEDB956D2D56F14FCB9451D",
-  "schema": 1
+  "sha256": "7DC4641677258D08FD9AFBE8A746BF7F785A28559FE1683EBDACABF6708D20BC",
+  "download_url": "https://github.com/vitorallwin/dropdodia-companion/releases/download/companion-v1.4.2/DropDoDia-Update-v1.4.2.zip",
+  "schema": 1,
+  "version": "1.4.2"
 }
